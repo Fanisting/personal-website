@@ -314,4 +314,10 @@ button:hover::after {
     margin-left: 80%;
   }
 }
+img {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+}
 </style>

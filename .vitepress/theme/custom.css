@@ -1,3 +1,6 @@
+/* center the img */
+
+
 @import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.6.0/style.min.css");
 :root {
   --vp-c-brand: #a27b5c;
@@ -45,4 +48,11 @@
   display: none !important;
 }
 
+/* center the img */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 

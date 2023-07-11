@@ -2,7 +2,12 @@ import DefaultTheme from "vitepress/theme";
 import Archives from "./components/Archives.vue";
 import Tags from "./components/Tags.vue";
 import MyLayout from "./components/MyLayout.vue";
+import About from "./components/About.vue";
+import CV from "./components/cv.vue";
+
 import "./custom.css";
+import './mathjax3.css';
+
 
 export default {
   ...DefaultTheme,
@@ -13,5 +18,7 @@ export default {
     // register global components
     app.component("Archives", Archives);
     app.component("Tags", Tags);
+    app.component("About", About);
+    app.component("CV", CV);
   },
 };
