@@ -90,7 +90,7 @@ Treatment里面隐藏了外部性（存在两种可能），但**提供确定可
 
 ![Motivated%20Bayesians%20Feeling%20Moral%20While%20Acting%20Ego%20cc9e19cd678644d49317d8ef3e375dee/Untitled.png](/motivated-bayesian/Untitled.png)
 
-![Motivated%20Bayesians%20Feeling%20Moral%20While%20Acting%20Ego%20cc9e19cd678644d49317d8ef3e375dee/Untitled 1.png](/motivated-bayesian/Untitled 1.png)
+![Motivated%20Bayesians%20Feeling%20Moral%20While%20Acting%20Ego%20cc9e19cd678644d49317d8ef3e375dee/Untitled-1.png](/motivated-bayesian/Untitled-1.png)
 
 ## Self-Serving Judgments of Morality
 
@@ -146,7 +146,7 @@ Shalvi et al. (2011)：多次滚动骰子
 
 一个结果"可能是真的"——因为实际发生了——撒谎似乎比简单捏造一个从未被观察到的结果更容易
 
-![Motivated%20Bayesians%20Feeling%20Moral%20While%20Acting%20Ego%20cc9e19cd678644d49317d8ef3e375dee/Untitled 2.png](/motivated-bayesian/Untitled 2.png)
+![Motivated%20Bayesians%20Feeling%20Moral%20While%20Acting%20Ego%20cc9e19cd678644d49317d8ef3e375dee/Untitled-2.png](/motivated-bayesian/Untitled-2.png)
 
 ## Self-Serving Interpretations of Reality
 
@@ -212,7 +212,7 @@ Exley (2016)
 
 可以选择向慈善机构捐款，但有一定的风险，慈善机构可能不会收到捐款——比如存在潜在的浪费或腐败
 
-![Motivated%20Bayesians%20Feeling%20Moral%20While%20Acting%20Ego%20cc9e19cd678644d49317d8ef3e375dee/Untitled 3.png](/motivated-bayesian/Untitled 3.png)
+![Motivated%20Bayesians%20Feeling%20Moral%20While%20Acting%20Ego%20cc9e19cd678644d49317d8ef3e375dee/Untitled-3.png](/motivated-bayesian/Untitled-3.png)
 
 ### Discrimination
 
