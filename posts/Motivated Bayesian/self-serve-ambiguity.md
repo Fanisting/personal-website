@@ -130,7 +130,7 @@ $对A来说，选择自利选择收益一定最高，即\pi_{A}(1, \cdot)>\pi_{A
 > 被试行为可能确实会由于随机分配的不利角色而行为不同。然而实验重点是被试行为是否在模糊性和简单风险之间改变，我们没有理由相信这些其他动机会与模糊性相互作用。
 > 
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 1.png](/self-serve-ambiguity/Untitled 1.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-1.png](/self-serve-ambiguity/Untitled-1.png)
 
 ### 彩票(Uncertainty/Ambiguity的实验实现)
 
@@ -166,7 +166,7 @@ Ambiguity Lottery 袋子里装着数量不详的红片和蓝片，共计20只。
 
 最后他们完成盒子的抽样来决定彩票
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 2.png](/self-serve-ambiguity/Untitled 2.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-2.png](/self-serve-ambiguity/Untitled-2.png)
 
 ## 实验结果
 
@@ -174,43 +174,43 @@ Ambiguity Lottery 袋子里装着数量不详的红片和蓝片，共计20只。
 
 ### 衡量指标
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 3.png](/self-serve-ambiguity/Untitled 3.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-3.png](/self-serve-ambiguity/Untitled-3.png)
 
 ### Choices
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 4.png](/self-serve-ambiguity/Untitled 4.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-4.png](/self-serve-ambiguity/Untitled-4.png)
 
 自利选项的比例：**Unconstrained-Real——Ambiguity**为 73% ，全场最高；**Unconstrained-Real ——Simple Risk**
 
 其他实验局的**Ambiguity——Simple Risk**都没有差异→表明假设成立： 一旦被试先前表示自己倾向于simple rosk而不是Ambiguity，那么后面他们很难再对Ambiguity表示喜爱
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 5.png](/self-serve-ambiguity/Untitled 5.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-5.png](/self-serve-ambiguity/Untitled-5.png)
 
 **Probit Regressions：支持**
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 6.png](/self-serve-ambiguity/Untitled 6.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-6.png](/self-serve-ambiguity/Untitled-6.png)
 
 **Real-Unconstrained 实验局中simple risk和Ambiguity情况下采取自利选择的比例**
 
 更多的参与者在简单风险下选择自私自利的0或1次 （33%）比在模糊性下 （11%）， 而更多的人选择利己3或4次模糊 （70%）相比simple risk（49%）
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 7.png](/self-serve-ambiguity/Untitled 7.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-7.png](/self-serve-ambiguity/Untitled-7.png)
 
 ### Estimate bias
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 8.png](/self-serve-ambiguity/Untitled 8.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-8.png](/self-serve-ambiguity/Untitled-8.png)
 
 **Real-Unconstrained**实验局下被试预估接受者收益为0.89$，高于simpel risk的0.29$
 
 **为什么光模糊性厌恶被激发的时候被试就会在simple risk和amboguity之间有同样对于被试信念的预期呢？真奇怪。**
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 9.png](/self-serve-ambiguity/Untitled 9.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-9.png](/self-serve-ambiguity/Untitled-9.png)
 
 ### Additional analysis
 
 **Second Regression**：自利行为和Estimate Bia同样正相关
 
-![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled 10.png](/self-serve-ambiguity/Untitled 10.png)
+![Self-serving%20interpretations%20of%20ambiguity%20in%20other%205a7e065ba3f04735854c342fbf7e546e/Untitled-10.png](/self-serve-ambiguity/Untitled-10.png)
 
 ## Conclusion
 
