@@ -1,7 +1,7 @@
 ---
 title: "Identity, Morality, and Taboos: Beliefs as Assets"
 description: Literature Note about "Beliefs as Assets"
-date: 2023-07-17
+date: 2022-09-27
 tags:
   - English
   - Literature Note

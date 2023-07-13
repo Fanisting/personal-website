@@ -1,7 +1,7 @@
 ---
 title: "Shopping addiction: A brief review"
 description: Literature Note about "Shopping addiction&colon; A brief review"
-date: 2023-07-17
+date: 2023-06-13
 tags:
   - English
   - Literature Note

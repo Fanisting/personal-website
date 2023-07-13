@@ -1,7 +1,7 @@
 ---
 title: Self-Confirming Equilibrium and Model Uncertainty
 description: Literature Note about "Self-Confirming Equilibrium and Model Uncertainty"
-date: 2023-07-17
+date: 2023-05-06
 tags:
   - English
   - Literature Note

@@ -1,7 +1,7 @@
 ---
 title: Behavioral Implications of Causal Misperceptions
 description: Literature Note about "Behavioral Implications of Causal Misperceptions"
-date: 2023-07-17
+date: 2023-05-17
 tags:
   - English
   - Literature Note

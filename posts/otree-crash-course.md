@@ -1,7 +1,7 @@
 ---
 title: A Crash Course of o-Tree
 description: A crash course for experimental coding tool o-Tree.
-date: 2023-07-17
+date: 2023-06-07
 tags:
   - Chinese
   - o-Tree
