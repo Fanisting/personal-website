@@ -10,10 +10,12 @@
         :key="index"
         class="article"
       >
+      
         <div class="title">
           <div class="title-o"></div>
           {{ article.frontMatter.title }}
         </div>
+        
         <div class="date">{{ article.frontMatter.date.slice(5) }}</div>
       </a>
     </div>
@@ -33,7 +35,7 @@ const data = computed(() => useYearSort(theme.value.posts));
 .main {
   margin: 0 auto;
   padding: 0.5rem 1.5rem 4rem;
-  max-width: 48rem;
+  max-width: 54rem;
 }
 .yearItem {
   border-bottom: 1px dashed #c7c7c7;
