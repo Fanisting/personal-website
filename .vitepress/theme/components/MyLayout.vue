@@ -1,9 +1,11 @@
 <template>
+  
   <Layout>
     <template #doc-before>
       <Title />
       <Category />
     </template>
+    
     <template #doc-after>
       <div>
         <button @click="back">cd ··</button>
@@ -12,6 +14,7 @@
     </template>
     <!-- Home slot-->
     <template #home-hero-before><HomeHero /> </template>
+    
     <template #home-features-after> <Page /></template>
   </Layout>
   <!-- copywright -->

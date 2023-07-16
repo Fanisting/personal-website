@@ -7,6 +7,7 @@
       Master-level Economics student with passion for Behavioral Economics and Marketing.
     </p>
   </div>
+  <About />
 </template>
 
 <script lang="ts" setup></script>
