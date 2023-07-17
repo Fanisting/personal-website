@@ -27,6 +27,7 @@
 </script>
 
   <style scoped>
+
   .des {
     text-align: justify;
   }
@@ -59,7 +60,7 @@
     height: 1.5px;
     width: 100%;
     background-color: black;
-    margin: 25px 0;
+    margin: 20px 0;
   }
 
   .title {
