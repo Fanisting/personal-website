@@ -31,12 +31,12 @@
     height: 135px;
     border-radius: 50%;
     border: 5px solid var(--vp-avatar-border);
-    background: url('avatar.png') center center no-repeat; /* Original avatar */
+    background: url('/avatar.png') center center no-repeat; /* Original avatar */
     background-size: cover;
 }
 
   .avatar:hover {
-    background: url('giphy.gif') center center no-repeat; /* New gif when hovered */
+    background: url('/giphy.gif') center center no-repeat; /* New gif when hovered */
     background-size: cover;
     animation: 5s linear 0s infinite avatar-transform;
   }
@@ -49,7 +49,5 @@
       transform: rotate(360deg);
     }
   }
-  .avator:hover {
-    animation: 5s linear 0s infinite avatar-transform;
-  }
+
 </style>
