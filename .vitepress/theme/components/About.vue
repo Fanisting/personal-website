@@ -3,11 +3,29 @@
       <br>
       <h2 class="title">About Me</h2>
       <hr>
+      <div style="align-items: center">
+        <b><span style="background-color: rgba(215, 149, 69, 0.3);">Education</span></b>
+        <p><b>Duke University (<i>Economics</i>)</b></p>
+        <div style="display: flex; justify-content: space-between;">
+            <span>M.A. Economics program</span>
+            <span>2022 - present</span>
+        </div>
+        <!-- <br> -->
+        <b>Zhejiang University (<i>Economics</i>, with distinction)</b>
+        <br>
+        <div style="display: flex; justify-content: space-between;">
+            <span>Experimental Class of Social Science</span>
+            <span>2018 - 2022</span>
+        </div>
+      </div>
+      <br>
+
+      <b><span style="background-color: rgba(215, 149, 69, 0.3);">Research Interest</span></b>
       <p class = "des">
-      <span >I graduated from Zhejiang University in 2022, and I am currently pursuing my studies in Economics at Duke University. My research interests include deception, morality, and belief bias in behavioral research, as well as market design in marketing research. In recent projects, I have utilized both Field/Lab experiments for data generation and structural modeling for analysis.</span>
+      <span >My research interests include deception, morality, and belief bias in behavioral research, as well as market design in marketing research. In recent projects, I have utilized both Field/Lab experiments for data generation and structural modeling for analysis.</span>
       </p>
       <br>
-      <p>Wanna know more about me? Click and check my <b><a href="archives">blogs</a></b> and <b><a href="cv">CV</a></b></p>
+      <p>Wanna know more about me? Click and check my <b><a href="archives">blogs</a></b> and <b><a href="cv">CV</a>.</b></p>
       <p class="keywords">
       <b><span>Skills: </span></b> 
       <span v-for="(skill, index) in skills" :key="index" class="skill-item">{{ skill }}</span>
@@ -32,9 +50,6 @@
     text-align: justify;
   }
 
-.duke-logo {
-  width: 30px;
-}
 
 .skill-item {
   background-color: rgba(162, 123, 92, 0.25); /* Grey background */
