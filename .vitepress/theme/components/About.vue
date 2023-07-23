@@ -46,6 +46,18 @@
 
   <style scoped>
 
+/* styles about the snk svg */
+.center-svg {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;  /* You can change this as per your requirements */
+    }
+
+    .center-figure {
+      text-align: center;
+    }
+
   .des {
     text-align: justify;
   }
