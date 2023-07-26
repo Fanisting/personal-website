@@ -5,14 +5,15 @@
   </figure>
   <br>
   <footer>
-    Thanks to
+    Thanks to 
     <a href="https://github.com/clark-cui/" target="_blank" title="作者"
       >clark-cui</a
     > for the nice theme
   </footer>
 </template>
+
 <script lang="ts" setup>
-const date = new Date().getFullYear();
+  const date = new Date().getFullYear();
 </script>
 <style scoped>
 /* styles about the snk svg */

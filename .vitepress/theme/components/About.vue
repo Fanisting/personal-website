@@ -5,13 +5,13 @@
       <hr>
       <div style="align-items: center">
         <b><span style="background-color: rgba(215, 149, 69, 0.3);">Education</span></b>
-        <p><b>Duke University (<i>Economics</i>)</b></p>
+        <p><b>Duke University <br><i>Economics, </i> with M.A. Merit Scholarship (twice) </b></p>
         <div style="display: flex; justify-content: space-between;">
             <span>M.A. Economics program</span>
             <span>2022 - present</span>
         </div>
         <!-- <br> -->
-        <b>Zhejiang University (<i>Economics</i>, with distinction)</b>
+        <b>Zhejiang University <br> <i>Economics</i>, graduate with distinction</b>
         <br>
         <div style="display: flex; justify-content: space-between;">
             <span>Experimental Class of Social Science</span>
@@ -46,17 +46,7 @@
 
   <style scoped>
 
-/* styles about the snk svg */
-.center-svg {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 80%;  /* You can change this as per your requirements */
-    }
 
-    .center-figure {
-      text-align: center;
-    }
 
   .des {
     text-align: justify;
