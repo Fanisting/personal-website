@@ -27,7 +27,7 @@ onContentUpdated(() => {
     id: location.pathname.substring(0, 50), // Ensure uniqueness and length less than 50
     language: "en", // "zh-CN"
     distractionFreeMode: true, // Facebook-like distraction free mode
-    createIssueManually: true, 
+    // createIssueManually: true, 
   });
   gitalk.render("gitalk-container");
 });
