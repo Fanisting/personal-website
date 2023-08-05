@@ -4,7 +4,7 @@
       <span>Hi, I'm Xuhang Fan (Shawn) 👋</span>
     </h1>
     <p class="description">
-      Master-level Economics student with passion for Behavioral Economics and Marketing.
+      Master-level Economics student with passion for Quantitative Marketing and Behavioral Economics.
     </p>
   </div>
   <About />

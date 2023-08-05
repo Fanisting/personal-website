@@ -158,8 +158,8 @@ async function config() {
           link: "/cv",
         },
         {
-          text: "📃About Me",
-          link: "/about",
+          text: "📃Research",
+          link: "/research",
         },
         // {
         //   text: "🔥RSS",
