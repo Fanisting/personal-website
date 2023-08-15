@@ -39,7 +39,7 @@ Player 1 chooses between an outside option $O$ and two Matching Pennies Games $M
 
 - Subgame $MP_2$ has higher maxmin stakes than $MP_1$ (maxmin value $2>1.5$)
   - Calculate the maxmin value: in $MP_2$ the distribution that minimize the expected payoff is $\frac{1}{2}h^2+ \frac{1}{2}t^2$, in which the highest payoff (maxmin value) is 2. Similarly, maxmin value in $MP_1$ is 1.5.
-- **only one Bayesian SCE**: Player 1 always choose$MP_2$due to a higher maxmin value and one half of players play$h$
+- **only one Bayesian SCE**: Player 1 always choose $MP_2$ due to a higher maxmin value and one half of players play $h$
 - **sub prob of P1**:  assign probability to the choice $h^k$ as  $\overline{\mu}^k$, and $k \in \{0, 1\}$
   - subjective value:$\{\bar{\mu}^1+1,2-\bar{\mu}^1\} \ge 1.5$ in $MP_1$ and $\{4\overline{\mu}^2,4(1-\overline{\mu}^2)\}\ge2$ in $MP_2$
   - However, the value of $O$ is $(1+\epsilon)$, which is lower than other two Games
@@ -49,7 +49,7 @@ What Subgames are reachable?
 - For an ambiguity neutral agent, neither $MP_1$ nor $O$ can happen in a Bayesian SCE
   - in a repeated game. even if they are in$O$or$MP_1$, they can learn and turn to$MP_2$
 - Ambiguity aversion makes $O$ or $MP_1$ reachable through ***status quo bias***
-  - **For agents already in** $MP_1$with **moderate** ambiguity aversion, the aversion to unknown payoff in$MP_2$case makes its payoff penalized, so people still stay in$MP_1$
+  - **For agents already in** $MP_1$ with **moderate** ambiguity aversion, the aversion to unknown payoff in $MP_2$case makes its payoff penalized, so people still stay in $MP_1$
   - **High ambiguity aversion** makes the option $O$ also possible since people in $O$ do not want to suffer from ambiguity in both games. For an extreme case, the agent see obj payoff in $MP_1$ as the lowest payoff 1 and $MP_2$ as the lowest payoff 0, which are less than $1+\epsilon$
 
 ![https://s2.loli.net/2023/05/07/YRTtxBSs3KjLPu8.png](https://s2.loli.net/2023/05/07/YRTtxBSs3KjLPu8.png)
