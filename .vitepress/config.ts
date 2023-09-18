@@ -144,22 +144,22 @@ async function config() {
           text: "🏡Home",
           link: "/",
         },
+        // {
+        //   text: "🔖Tags",
+        //   link: "/tags",
+        // },
         {
-          text: "🔖Tags",
-          link: "/tags",
-        },
-        {
-          text: "🗄️Archives",
-          link: "/archives",
-        },
-        {
-          text: "📃CV",
+          text: "📖CV",
           // link: "https://drive.google.com/file/d/1DTB_pZsupBRffIftEOd4_VWLS5DQKTiK/view?usp=sharing",
           link: "/cv",
         },
         {
           text: "📃Research",
           link: "/research",
+        },
+        {
+          text: "🗄️Resources",
+          link: "/archives",
         },
         // {
         //   text: "🔥RSS",

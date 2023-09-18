@@ -1,7 +1,9 @@
 /* center the img */
 
 
-@import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.6.0/style.min.css");
+/* @import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.6.0/style.min.css"); */
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@350;400&display=swap");
+
 :root {
   --vp-c-brand: #a27b5c;
   --vp-c-brand-light: #a27b5c;
@@ -15,10 +17,10 @@
   --vp-c-color-d: #a15000;
   --vp-c-color-e: #ed7c0c;
 
-  --vp-font-family-base: "LXGW WenKai Lite", "Inter var experimental",
+  --vp-font-family-base: "Libre Baskerville", "Cormorant Garamond", "LXGW WenKai Lite", "Inter var experimental",
     "Inter var", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  --vp-font-family-mono: "LXGW WenKai Mono Lite", ui-monospace, SFMono-Regular,
+  --vp-font-family-mono: "Libre Baskerville", "Cormorant Garamond", "LXGW WenKai Mono Lite", ui-monospace, SFMono-Regular,
     "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
     monospace;
   --vp-avator-border: #ffffff;

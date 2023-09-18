@@ -4,14 +4,15 @@
       <h2 class="title">About Me</h2>
       <hr>
       <div style="align-items: center">
-        <b><span style="background-color: rgba(215, 149, 69, 0.3);">Education</span></b>
-        <p><b>Duke University <br><i>Economics, </i> with M.A. Merit Scholarship (twice) </b></p>
+        <p><b><span style="background-color: rgba(215, 149, 69, 0.3);">Education</span></b></p>
+
+        <p><b>⭐Duke University <br><i>Economics, </i> with M.A. Merit Scholarship (twice) </b></p>
         <div style="display: flex; justify-content: space-between;">
             <span>M.A. Economics program</span>
             <span>2022 - present</span>
         </div>
         <!-- <br> -->
-        <b>Zhejiang University <br> <i>Economics</i>, graduate with distinction</b>
+        <b>⭐Zhejiang University <br> <i>Economics</i>, graduate with distinction</b>
         <br>
         <div style="display: flex; justify-content: space-between;">
             <span>Experimental Class of Social Science</span>
@@ -22,10 +23,10 @@
 
       <b><span style="background-color: rgba(215, 149, 69, 0.3);">Research Interest</span></b>
       <p class = "des">
-      <span >My research interests include deception, morality, and belief bias in behavioral research, as well as market design in marketing research. In recent projects, I have utilized both Field/Lab experiments for data generation and structural modeling for analysis.</span>
+      <span >My research interests include </span>
       </p>
       <br>
-      <p>Wanna know more about me? Click and check my <b><a href="archives">blogs</a></b> and <b><a href="cv">CV</a>.</b></p>
+      <p>Wanna know more about me? Click and check my <b><a href="cv">CV</a></b> and <b><a href="research">Research</a>.</b></p>
       <p class="keywords">
       <b><span>Skills: </span></b> 
       <span v-for="(skill, index) in skills" :key="index" class="skill-item">{{ skill }}</span>
@@ -38,7 +39,7 @@
   export default {
     data() {
       return {
-        skills: ["Python/R/Stata", "Matlab", "o-Tree/Qualtrics"]
+        skills: ["Python/R/Stata", "Qualtrics/o-Tree"]
       };
     }
   };

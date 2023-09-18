@@ -1,5 +1,4 @@
 <template>
-  
   <Layout>
     <template #doc-before>
       <Title />
