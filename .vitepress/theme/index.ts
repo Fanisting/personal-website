@@ -4,7 +4,7 @@ import Tags from "./components/Tags.vue";
 import MyLayout from "./components/MyLayout.vue";
 import About from "./components/About.vue";
 import CV from "./components/cv.vue";
-import Research from "./components/research.vue";
+import Research from "./components/Research.vue";
 
 import "./custom.css";
 import './mathjax3.css';
