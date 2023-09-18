@@ -1,10 +1,7 @@
 <template>
-  <div class="pyro">
-    <div class="before"></div>
-    <div class="after"></div>
-  </div>
+  <FireWorksAnimation />
   <ShareCard />
-  <h1 class="blog-title">Blogs</h1>
+  <h1 class="blog-title">Resources</h1>
   <div class="blogList">
     <a class="blog" v-for="item in posts" :href="withBase(item.regularPath)">
       <div class="title">{{ item.frontMatter.title }}</div>
@@ -28,6 +25,7 @@
 <script lang="ts" setup>
 import { ref } from "vue";
 import ShareCard from "./ShareCard.vue";
+import FireWorksAnimation from "./FireWorksAnimation.vue";
 import { useData, withBase } from "vitepress";
 interface post {
   regularPath: string;

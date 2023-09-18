@@ -178,6 +178,7 @@ async function config() {
       ],
       // outline: 2, //设置右侧aside显示层级
       aside: false,
+      showFireworksAnimation: false,
     },
     buildEnd: buildBlogRSS,
     markdown: {
